@@ -1,6 +1,3 @@
-# Monkey String
-
-
 [SpiderMoneky](https://developer.mozilla.org/ja/docs/SpiderMonkey) のStringオブジェクトをPHPに移植した使い道のよくわからないもの。
 
 
